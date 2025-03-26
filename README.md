@@ -25,3 +25,10 @@ This project utilizes machine learning techniques to predict car prices based on
     https://www.kaggle.com/datasets/ahmedwaelnasef/cars-dataset/data  
 - Train the machine learning model. 
 - Use the trained model to predict car prices. 
+
+##  Contributing
+We welcome contributions! If you find an issue or want to enhance the project, feel free to Submit a pull request
+
+##  Contact
+For any inquiries, feel free to reach out:
+- **Email:**(mailto:dana.gassad03@gmail.com)
